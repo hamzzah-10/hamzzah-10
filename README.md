@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamzzah-10
-- 👀 I’m interested in Cybersecurity & Ethical Hacking
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on Kali Linux tools
+- 👀 I’m interested in Artificial Intelligence, Cybersecurity & Deep Learning
+- 🌱 I’m currently learning computer vision
+- 💞️ I’m looking to collaborate on deep learning tools
 - 📫 How to reach me hamzzah2002@gmail.com
 
 <!---

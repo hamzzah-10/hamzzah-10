@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamzzah-10
+- 👋 Hi, I’m @Ameer Hamzah
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity & Deep Learning
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on deep learning tools
